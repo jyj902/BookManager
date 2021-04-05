@@ -1,0 +1,5 @@
+﻿  BookManager07Dlg.cpp
+C:\Users\s02\source\repos\BookManager07\BookManager07Dlg.cpp(51,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\s02\source\repos\BookManager07\BookManager07Dlg.cpp(64,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\s02\source\repos\BookManager07\BookManager07Dlg.cpp(264,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BookManager07.vcxproj -> C:\Users\s02\source\repos\BookManager07\Debug\BookManager07.exe

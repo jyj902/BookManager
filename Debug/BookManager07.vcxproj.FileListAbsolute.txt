@@ -1,0 +1,4 @@
+C:\Users\s02\source\repos\BookManager07\Debug\BookManager07.exe
+C:\Users\s02\source\repos\BookManager07\Debug\BookManager07.pdb
+C:\Users\user\source\repos\BookManager07\Debug\BookManager07.exe
+C:\Users\user\source\repos\BookManager07\Debug\BookManager07.pdb
